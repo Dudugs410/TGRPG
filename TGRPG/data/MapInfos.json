@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"expanded":true,"name":"TEST_World","order":1,"parentId":0,"scrollX":759.3333333333334,"scrollY":427.3333333333333},
+{"id":2,"expanded":true,"name":"town","order":2,"parentId":1,"scrollX":759.3333333333334,"scrollY":427.3333333333333},
+{"id":3,"expanded":false,"name":"MAP003","order":3,"parentId":2,"scrollX":759.3333333333334,"scrollY":427.3333333333333},
+{"id":4,"expanded":false,"name":"Basement","order":4,"parentId":0,"scrollX":759.3333333333334,"scrollY":427.3333333333333}
+]
