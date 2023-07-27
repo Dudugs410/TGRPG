@@ -1,4 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"ANDI","characterIndex":0,"characterName":"ANDI","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Andas_2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Andas","nickname":"Anbis","note":"","profile":"white ass cracker"}
+{"id":1,"battlerName":"ANDI","characterIndex":0,"characterName":"ANDI","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Andas_2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Andas","nickname":"Anbis","note":"","profile":"white ass cracker"},
+{"id":2,"battlerName":"2_DF_Actor7","characterIndex":2,"characterName":"SF_People1","classId":5,"equips":[6,5,0,3,6],"faceIndex":2,"faceName":"SF_Actor3","traits":[{"code":22,"dataId":2,"value":0.05}],"initialLevel":2,"maxLevel":99,"name":"Elsie","nickname":"Elsie","note":"","profile":""},
+{"id":3,"battlerName":"yuki","characterIndex":0,"characterName":"yuki","classId":1,"equips":[5,0,0,0,0],"faceIndex":0,"faceName":"yuki","traits":[],"initialLevel":1,"maxLevel":99,"name":"Yuki","nickname":"Yuki","note":"","profile":""}
 ]
